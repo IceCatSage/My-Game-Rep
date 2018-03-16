@@ -4,4 +4,4 @@
 /// @DnDArgument : "code" "targetRoom = rmOne;$(13_10)targetX = 833;$(13_10)targetY = 288;"
 targetRoom = rmOne;
 targetX = 833;
-targetY = 288;
+targetY = 287;
